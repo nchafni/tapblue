@@ -1,6 +1,7 @@
 README.txt
 setup.py
 tapblue/__init__.py
+tapblue/blue.py
 tapblue.egg-info/PKG-INFO
 tapblue.egg-info/SOURCES.txt
 tapblue.egg-info/dependency_links.txt
